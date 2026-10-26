@@ -1,3 +1,7 @@
+# FuturePath — Inteligência de Carreira
+
+> **Status:** projeto acadêmico (FIAP — Global Solution 2025). Este repositório contém a proposta de arquitetura e o notebook [`ARQUIVO_FINAL_FUTUREPATH.ipynb`](ARQUIVO_FINAL_FUTUREPATH.ipynb), que simula as camadas de ingestão, Machine Learning (Random Forest) e monitoramento com **dados sintéticos**. As integrações com Azure, APIs públicas e LLM descritas abaixo são o desenho proposto, ainda não implementado. As metas de impacto são objetivos do projeto, não resultados medidos.
+
 📋 **Sobre o Projeto**
 
 O FuturePath não é apenas uma plataforma de cursos; é um sistema de navegação completo para o trabalho do futuro. 
